@@ -1,0 +1,4 @@
+*.csv #ignore
+*.fastq #ignore
+!*.txt #don't ignore
+results/
